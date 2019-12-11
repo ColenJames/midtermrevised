@@ -1,5 +1,6 @@
 # midtermrevised
 ![midterm1](https://github.com/ColenJames/midtermrevised/blob/master/midterm_1.png)
+![midterm2](https://github.com/ColenJames/midtermrevised/blob/master/midterm_2.png)
 
 1. In the event that the application is made I believe there would be some ethical issues regarding 1.6 respect privacy where “Computing professionals should only use personal information for legitimate ends and without violating the rights of individuals and groups. This requires taking precautions to prevent re- identification of anonymized data or unauthorized data collection, ensuring the accuracy of data, understanding the provenance of the data, and protecting it from unauthorized access and accidental disclosure”. People may take advantage of the fact that they can connect with close by friends on yo. In Japan this feature would be frowned upon because it’s allowing one user to have the location of friends on the app that could potentially put users in danger.
 
